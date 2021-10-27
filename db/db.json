@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "iname": "chicken birayani",
+      "iprice": "120/-",
+      "iratting": "*****"
+    },
+    {
+      "id": 3,
+      "iname": "mutton biryani",
+      "iprice": "220/-",
+      "iratting": "*******"
+    },
+    {
+      "id": 3,
+      "iname": "pannermasala",
+      "iprice": "110/-",
+      "iratting": "**"
+    }
+  ]
+}
